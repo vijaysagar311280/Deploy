@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f9fafc;
+  color: #333;
+}
+
+header {
+  background: #0a4d8c;
+  color: white;
+  text-align: center;
+  padding: 40px 20px;
+}
+
+section {
+  padding: 40px 15%;
+}
+
+h2 {
+  color: #0a4d8c;
+}
+
+.skills ul, .experience ul {
+  list-style: square;
+}
+
+.project-card {
+  background: white;
+  padding: 15px;
+  margin: 15px 0;
+  border-left: 4px solid #0a4d8c;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  background: #0a4d8c;
+  color: white;
+}

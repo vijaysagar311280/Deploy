@@ -1,1 +1,1 @@
-https://acpindia-mobile.accenture.com/hoteling
+console.log("Portfolio loaded successfully!");
